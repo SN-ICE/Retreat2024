@@ -1,2 +1,0 @@
-Supernova	Mean Velocity	Standard Deviation
-SN2020lao	-20836.59318934202	982.622816571488

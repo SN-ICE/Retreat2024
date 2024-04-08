@@ -1,2 +1,0 @@
-Supernova	Mean Velocity	Standard Deviation
-20200523_LT.txt	-13280.360509582304	246.75802524525855
