@@ -8,4 +8,4 @@ conda activate prospector
 python -m pip install .
 ```
 
-Beware of NOT mixing PROSPECTOR and Hostphot instalation since they have incompatible numpy and astropy versio
+Beware of NOT mixing PROSPECTOR and Hostphot instalation since they have incompatible numpy and astropy version
