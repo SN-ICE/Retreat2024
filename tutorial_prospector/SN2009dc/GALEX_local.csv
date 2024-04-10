@@ -1,0 +1,2 @@
+name,ra,dec,redshift,survey,FUV_0.5,FUV_0.5_err,FUV_0.5_flux,FUV_0.5_flux_err,FUV_zeropoint,NUV_0.5,NUV_0.5_err,NUV_0.5_flux,NUV_0.5_flux_err,NUV_zeropoint
+SN2009dc,237.8005,25.70778,0.021391,GALEX,,,0.0,,,,,0.0,,20.08
