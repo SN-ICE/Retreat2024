@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 jupyterlab
-piscola==2.0.0rc1
+piscola==2.0.0rc2
