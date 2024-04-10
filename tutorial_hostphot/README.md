@@ -3,7 +3,7 @@ ___
 
 ## Requirements
 
-It is recommended to use an environment to install HostHhot. All the requirements for this tutorial are in the `requirements.txt` file.
+It is recommended to use an environment to install Hostphot. All the requirements for this tutorial are in the `requirements.txt` file.
 
 ```python
 conda create -n tutorial pip  # environment called 'tutorial'
