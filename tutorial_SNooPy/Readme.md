@@ -23,4 +23,6 @@ s.k_version = "H3+L"
 
 Then fit as usual. It will only really affect the NIR, since the optical template is still the same old Hsiao template.
 
+# install extra filters 
 
+from https://github.com/HOSTFLOWS/filters_snoopy/tree/main
